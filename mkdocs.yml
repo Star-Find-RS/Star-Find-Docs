@@ -1,0 +1,59 @@
+site_name: Star Find Docs
+site_description: Star Find's Guide to Shooting Stars in RuneScape 3
+# site_url:
+dev_addr: localhost:8000
+theme:
+  font:
+    text: Roboto
+  name: material
+#  logo: path/to/file.png
+#  favicon: path/to/file.png
+  custom_dir: overrides
+  features:
+  #  - navigation.tabs
+  #  - navigation.tabs.sticky
+  #  - navigation.sections
+  #  - navigation.path
+  #  - navigation.expand
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotate
+    - content.code.copy
+    - announce.dismiss
+  language: en
+  palette:
+    # Dark Theme
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: teal
+      accent: lime
+    # Light Theme
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: teal
+      accent: purple 
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+nav:
+  - 'Welcome': index.md
+  - 'Maps': maps.md
+  - 'Abbreviations': abbreviations.md
+  # - 'Guide': guide.md
+  # - 'Friends Chat': friendschat.md
+  - 'Join our Discord': https://discord.gg/M2pZfDqzzp
