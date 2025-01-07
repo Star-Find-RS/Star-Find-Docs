@@ -6,8 +6,8 @@ theme:
   font:
     text: Roboto
   name: material
-#  logo: path/to/file.png
-#  favicon: path/to/file.png
+  logo: images/site/logo.png
+  favicon: images/site/favicon-32x32.png
   custom_dir: overrides
   features:
   #  - navigation.tabs
