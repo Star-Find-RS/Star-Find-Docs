@@ -57,7 +57,7 @@
 **ASH-N** - Ashdale North  
 **ASH-S** - Ashdale South  
 **DAEM-E** - Daemonheim East  
-**DEAM-W** - Daemonheim West  
+**DAEM-W** - Daemonheim West  
 **JS** - Jungle Strykewyrm  
 **GROVE-N** - Lost Grove North  
 **GROVE-E** - Lost Grove East  

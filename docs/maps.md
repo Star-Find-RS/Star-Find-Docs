@@ -44,7 +44,7 @@
 ## **DAEM** - [Daemonheim](<https://runescape.wiki/w/Daemonheim>)
 2 locations
 > **DAEM-E** - Daemonheim East  
- **DEAM-W** - Daemonheim West  
+ **DAEM-W** - Daemonheim West  
 
 ![DAEM Map](<images/daem.png>)
 
