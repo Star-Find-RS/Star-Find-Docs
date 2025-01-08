@@ -58,7 +58,7 @@
 **SG** - Spirit Grove  
 **SHILO** - Shilo Village gem mine  
 **SM** - lvl 10 skeleton mine  
-**SWK** - south west Khazard..north Yanille bank  
+**SWK** - South West Khazard, north of Yanille bank  
 **TUSK-N** - Tuska North  
 **TUSK-S** - Tuska South  
 **UZER** - Uzer mine, n.e.  
