@@ -6,10 +6,7 @@ theme:
   font:
     text: Roboto
   name: material
-  extra_css:
-    - css/custom.css
   logo: images/site/logo.png
-  nav_title: " "  # Removes the site name from the nav
   favicon: images/site/favicon.ico
   custom_dir: overrides
   features:
