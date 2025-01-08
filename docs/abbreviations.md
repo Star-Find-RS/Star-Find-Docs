@@ -53,7 +53,7 @@
 **QUARRY** - bandit camp  
 **REL** - Rellekka mine  
 **RIM** - Rimmington mine  
-**SCORPS** - scorpion mine west of duel arena  
+**SCORPS** - scorpion mine west of Het's Oasis  
 **SEV** - south east Varrock mine  
 **SG** - Spirit Grove  
 **SHILO** - Shilo Village gem mine  
