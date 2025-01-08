@@ -1,6 +1,6 @@
 site_name: Star Find Docs
 site_description: Star Find's Guide to Shooting Stars in RuneScape 3
-# site_url:
+site_url: https://starfind.net/
 dev_addr: localhost:8000
 theme:
   font:
