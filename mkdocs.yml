@@ -7,7 +7,7 @@ theme:
     text: Roboto
   name: material
   extra_css:
-    - custom.css
+    - css/custom.css
   logo: images/site/logo.png
   favicon: images/site/favicon.ico
   custom_dir: overrides
