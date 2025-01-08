@@ -7,7 +7,7 @@ theme:
     text: Roboto
   name: material
   logo: images/site/logo.png
-  favicon: images/site/favicon-32x32.ico
+  favicon: images/site/favicon.ico
   custom_dir: overrides
   features:
   #  - navigation.tabs
