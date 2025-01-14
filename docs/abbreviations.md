@@ -5,13 +5,13 @@
 
 **AIRUT** - Pisc Near Airuts  
 **AKB** - Al Kharid bank (lodestone)  
-**ALA** - Anachronia Light Animica  
 **ART** - artisan workshop  
 **ASH-N** - Ashdale North  
 **ASH-S** - Ashdale South  
 **ASM** - Anachronia Swamp Mine  
 **AUB** - Aubury rune store in Varrock  
 **BDR** - Burgh De Rott bank  
+**BEACH** - Anachronia Beach  
 **BRIM** - west of Karamja lodestone  
 **CAN** - Canifis bank  
 **CATH** - Catherby  
@@ -22,6 +22,7 @@
 **DAEM-E** - Daemonheim East  
 **DAEM-W** - Daemonheim West  
 **ELF** - Lletya near archery shop  
+**FELD** - Jungle Strykewyrm  
 **GROVE-E** - Lost Grove East  
 **GROVE-N** - Lost Grove North  
 **GROVE-W** - Lost Grove West  
@@ -31,7 +32,6 @@
 **HOBS** - lvl 35 hobgoblin mine  
 **HS** - horseshoe mine n.w. Brim  
 **JATZ** - jatizso n.w. outside town  
-**JS** - Jungle Strykewyrm  
 **KELD** - Keldagrim mine entrance (east of Fremmy lode)  
 **LAKE** - Taverly Lake  
 **LEG** - legends guild  

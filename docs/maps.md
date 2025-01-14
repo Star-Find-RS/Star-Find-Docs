@@ -4,7 +4,7 @@
 ## **ANA** - [Anachronia](<https://runescape.wiki/w/Anachronia>)
 3 locations
 >**ASM** - Anachronia Swamp Mine  
- **ALA** - Anachronia Light Animica  
+ **BEACH** - Anachronia Beach  
  **SG** - Spirit Grove  
 
 ![ANA Map](<images/ana.png>)
@@ -76,7 +76,7 @@
 
 ## **FELD** - [Feldip Hills](<https://runescape.wiki/w/Feldip_Hills>)
 1 locations
-> **JS** - Jungle Strykewyrm  
+> **FELD** - Jungle Strykewyrm  
 
 ![FELD Map](<images/feld.png>)
 
