@@ -1,7 +1,28 @@
-# Star Abbreviations
+# Abbreviations
 
-## Alphabetical list
+## Landing Regions
+_Each region has several landing locations._
 
+**Ana** = Anachronia  
+**Asg** = Asgarnia  
+**Ash** = Ashdale  
+**C/K** = Crandor/Karamja  
+**Daem** = Daemonheim  
+**Des** = Desert  
+**F/L** = Fremennik/Lunar  
+**Feld** = Feldip Hills  
+**Grove** = Lost Grove  
+**Kand** = Kandarin  
+**M/M** = Morytania/Mos Le'Harmless  
+**Mena** = Menaphos  
+**Mist** = Misthalin  
+**PGT** = Piscatoris/Gnome Stronghold/Tirannwn  
+**Tusk** = Tuska  
+**Wild** = Wilderness  
+---
+
+## Star Locations
+_Alphabetical list of All Locations_
 
 **AIRUT** - Pisc Near Airuts  
 **AKB** - Al Kharid bank (lodestone)  
@@ -67,3 +88,21 @@
 **WF** - west Falador mine  
 **YAN** - Yanille bank  
 **ZM** - lvl 7 wildy zamorak mage  
+---
+
+## Other Terms
+
+**W** = World  
+**F** = Free to play world  
+**M** = Number of miners at a star  
+**s1-s10** =  Size (examine a star to see the size)  
+**Clanned** = Lots of miners (usually not in FC)  
+**Tubby** = Star Sprite  
+**Tag** = First to touch a star  
+**Redusting** = Collecting 200 dust and leaving  
+**Scoping** = Checking the telescope in a player owned house to get the   region for the next star
+**Listing** = Sharing a list of worlds by region for next wave  
+**Scouting** = Going to each of the locations in a region to look for a star  
+**Wave** = The time new stars fall in every world (about every 2 hours and lasting 15 min)  
+**Region** = A large area of the world containing several stars locations  
+---
