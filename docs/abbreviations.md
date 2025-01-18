@@ -1,6 +1,6 @@
 # Abbreviations
 
-## Landing Regions
+## **Landing Regions**
 _Each region has several landing locations._
 
 **Ana** = Anachronia  
@@ -21,7 +21,7 @@ _Each region has several landing locations._
 **Wild** = Wilderness  
 ---
 
-## Star Locations
+## **Star Locations**
 _Alphabetical list of All Locations_
 
 **AIRUT** - Pisc Near Airuts  
@@ -90,7 +90,7 @@ _Alphabetical list of All Locations_
 **ZM** - lvl 7 wildy zamorak mage  
 ---
 
-## Other Terms
+## **Other Terms**
 
 **W** = World  
 **F** = Free to play world  
