@@ -83,7 +83,6 @@ _Alphabetical list of All Locations_
 **TUSK-N** - Tuska North  
 **TUSK-S** - Tuska South  
 **UZER** - Uzer mine, n.e.  
-**VOL** - lvl 22 wilderness volcano  
 **VULT** - vulture mine  
 **WF** - west Falador mine  
 **YAN** - Yanille bank  

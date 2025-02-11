@@ -149,13 +149,12 @@
 
 
 ## **WILD** - [Wilderness](<https://runescape.wiki/w/Wilderness>)
-7 locations
+6 locations
 > **HOBS** - lvl 35 hobgoblin mine  
  **LM** - level 47 lava maze (formerly ‘rr’)  
  **MB** - mage bank wild  
  **PM** - lvl 53 pirate mine  
  **SM** - lvl 10 skeleton mine  
- **VOL** - lvl 22 wilderness volcano  
  **ZM** - lvl 7 wildy zamorak mage  
 
 ![WILD Map](<images/wild.png>)
