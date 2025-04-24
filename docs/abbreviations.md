@@ -98,10 +98,11 @@ _Alphabetical list of All Locations_
 **Clanned** = Lots of miners (usually not in FC)  
 **Tubby** = Star Sprite  
 **Tag** = First to touch a star  
-**Redusting** = Collecting 200 dust and leaving  
-**Scoping** = Checking the telescope in a player owned house to get the   region for the next star
+**Scoping** = Checking the telescope in a player owned house to get the region for the next star  
 **Listing** = Sharing a list of worlds by region for next wave  
 **Scouting** = Going to each of the locations in a region to look for a star  
 **Wave** = The time new stars fall in every world (about every 2 hours and lasting 15 min)  
 **Region** = A large area of the world containing several stars locations  
+**Cd or Cooling** = The time after landing before a star can be mined  
+**Unf or Unfound** = A world on the list, that has not been reported as found  
 ---
