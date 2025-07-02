@@ -54,6 +54,9 @@ nav:
   - 'Welcome': index.md
   - 'Maps': maps.md
   - 'Abbreviations': abbreviations.md
+  - 'FAQs': faq.md
+
   # - 'Guide': guide.md
   # - 'Friends Chat': friendschat.md
   - 'Join our Discord': https://discord.gg/M2pZfDqzzp
+
