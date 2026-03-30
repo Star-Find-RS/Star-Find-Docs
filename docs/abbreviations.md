@@ -17,6 +17,7 @@ _Each region has several landing locations._
 **Mena** = Menaphos  
 **Mist** = Misthalin  
 **PGT** = Piscatoris/Gnome Stronghold/Tirannwn  
+**Wend** = Wendlewick  
 **Wild** = Wilderness  
 ---
 
@@ -77,11 +78,13 @@ _Alphabetical list of All Locations_
 **SEV** - Southeast Varrock mine  
 **SG** - Anachronia Spirit Grove  
 **SHILO** - Shilo Village gem mine  
-**SM** - Wilderness Skeleton mine, lvl 10  
-**SWK** - Southwest Khazard, north of Yanille bank  
-**UZER** - Uzer mine, NE  
-**VULT** - Vulture mine  
-**WF** - West Falador mine  
+**SM** - lvl 10 skeleton mine  
+**SWK** - South West Khazard, north of Yanille bank  
+**UZER** - Uzer mine, n.e.  
+**VULT** - vulture mine  
+**WEND-DM** - Deserted mine  
+**WEND-HM** - Highweald mine  
+**WF** - west Falador mine  
 **YAN** - Yanille bank  
 **ZM** - Wilderness Runite mine, by the Zamorak Mage, lvl 7  
 ---
