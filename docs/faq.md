@@ -2,6 +2,18 @@
 
 ---
 
+## What do all these letters and abbreviations mean?
+A: See [Maps](maps.md) and [Abbreviations](abbreviations.md) for a breakdown.
+
+---
+
+## How do I report a star in the fc?
+A: Report new stars as follows: __World__ (with identifiers) __Location/Region__ __Size__ __Time__  
+   - For size updates, use the same format but omit the time.  
+   - Example: Size 7 star on w84 in Catherby ➡️ w84 cath s7
+
+---
+
 ## How much dust can I mine per star?
 A: A size 10 star gives a base of 937 dust. Honed 6 provides an additional 112 dust (124 if your equipment is level 20), and the Shooting Star buff grants an extra 235 dust.
 
@@ -14,11 +26,11 @@ A: You need to mine 37,000 dust to buy out the shop for the achievement.
 
 ## What perks and auras can I use for mining stars?
 A:  
-1. Honed: Chance to get additional dust  
-2. Furnace: Chance to receive extra XP, but no dust for that XP drop  
-3. Wise: Additional XP, up to a total of 50,000 per day  
-4. Wisdom (aura): The only aura that affects stars, providing additional XP for its duration  
-5. Shooting Star buff: Grants an additional 25% dust from mined stars
+1. Honed: Chance to get additional dust.  
+2. Furnace: Chance to receive extra XP, but no dust for that XP drop.  
+3. Wise: Additional XP, up to a total of 50,000 per day.  
+4. Wisdom (aura): The only aura that affects stars, providing additional XP for its duration.  
+5. Shooting Star buff: Grants an additional 25% dust from mined stars.
 
 ---
 
@@ -40,13 +52,6 @@ A: The duration of each layer (in seconds) can be calculated as: 390 - (30 × Si
 
 ## How do I receive the Shooting Star buff?
 A: You must mine at least 1 star dust that day, then speak to a Star Sprite (“Tubby”).
-
----
-
-## How do I report a star in the fc?
-A: Report new stars as follows: __World__ (with identifiers) __Location/Region__ __Size__ __Time__  
-   - For size updates, use the same format but omit the time.  
-   - Example: Size 7 star on w84 in Catherby ➡️ w84 cath s7
 
 ---
 
@@ -85,11 +90,6 @@ A: Star progression is strictly time-based.
 
 ## How do I use the bot to report stars?
 A: See [Discord - Bot Guide](https://discord.com/channels/282907227017183232/1322592232137818122)
-
----
-
-## What do all these letters and abbreviations mean?
-A: See [Maps](maps.md) and [Abbreviations](abbreviations.md) for a breakdown.
 
 ---
 
