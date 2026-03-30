@@ -17,6 +17,7 @@ _Each region has several landing locations._
 **Mena** = Menaphos  
 **Mist** = Misthalin  
 **PGT** = Piscatoris/Gnome Stronghold/Tirannwn  
+**Wend** = Wendlewick  
 **Wild** = Wilderness  
 ---
 
@@ -81,6 +82,8 @@ _Alphabetical list of All Locations_
 **SWK** - South West Khazard, north of Yanille bank  
 **UZER** - Uzer mine, n.e.  
 **VULT** - vulture mine  
+**WEND-DM** - Deserted mine  
+**WEND-HM** - Highweald mine  
 **WF** - west Falador mine  
 **YAN** - Yanille bank  
 **ZM** - lvl 7 wildy zamorak mage  

@@ -140,6 +140,14 @@
 ![PGT Map](<images/pgt.png>)
 
 
+## **WEND** - [Wendlewick](<https://runescape.wiki/w/Wendlewick>) {#wend}
+2 locations
+> **WEND-DM** - Deserted mine  
+ **WEND-HM** - Highweald mine  
+
+![WEND Map](<images/wend.png>)
+
+
 ## **WILD** - [Wilderness](<https://runescape.wiki/w/Wilderness>) {#wild}
 6 locations
 > **HOBS** - lvl 35 hobgoblin mine  
