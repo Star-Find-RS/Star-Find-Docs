@@ -20,28 +20,22 @@ A: A size 10 star gives a base of 937 dust. Honed 6 provides an additional 112 d
 ---
 
 ## How much dust do I need to buy out the shop for the achievement?
-A: You need to mine 37,000 dust to buy out the shop for the achievement.
+A: You need to mine 28,000 dust to buy out the shop for the achievement.
 
 ---
 
-## What perks and auras can I use for mining stars?
+## What perks can I use for mining stars?
 A:  
 1. Honed: Chance to get additional dust.  
 2. Furnace: Chance to receive extra XP, but no dust for that XP drop.  
 3. Wise: Additional XP, up to a total of 50,000 per day.  
-4. Wisdom (aura): The only aura that affects stars, providing additional XP for its duration.  
-5. Shooting Star buff: Grants an additional 25% dust from mined stars.
+4. Shooting Star buff: Grants an additional 25% dust from mined stars.
 
 ---
 
 ## Are there limits for Shooting Stars?
 A:  
-- There are two limits for shooting stars:  
-    1. You may mine up to 3 stars per day.  
-    2. You may receive the Shooting Star buff once per day.  
-- D&D Reset Tokens (daily) can be used to reset ONE of these limits per day.  
-    - The Shooting Star buff limit resets automatically at 00:00 UTC.  
-    - The 3-star limit resets the first time you lobby or log out after 00:00 UTC.
+- Post-March 16th Dailyscape [update](https://secure.runescape.com/m=news/patch-notes-dailyscape-overhaul), there is no longer any daily limits for mining Shooting Stars.
 
 ---
 
@@ -51,7 +45,8 @@ A: The duration of each layer (in seconds) can be calculated as: 390 - (30 × Si
 ---
 
 ## How do I receive the Shooting Star buff?
-A: You must mine at least 1 star dust that day, then speak to a Star Sprite (“Tubby”).
+A: You must mine at least 1 star dust from that star, then speak to a Star Sprite (“Tubby”).
+- If you log out for any reason (hopping worlds, log out, afk for too long) before claiming the reward, you will forfeit your claim for the star sprite's reward
 
 ---
 
@@ -99,6 +94,6 @@ A: You may use the Golem outfit once per day to teleport to an active star. You 
 ---
 
 ## What is the easiest way to get the Starstruck title?
-A: Find a world with a star landing in the **Feldip Hills** region, or a *free-to-play* world with a **Crandor** region.
+A: Find a world with a star landing in the **Feldip Hills** region, **Amberfell** region, or a *free-to-play* world with a **Crandor** region.
 
 ---

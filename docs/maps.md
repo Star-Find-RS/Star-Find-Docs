@@ -1,5 +1,11 @@
 # Maps
 
+## **Amber** - [Amberfell](<https://runescape.wiki/w/Amberfell>) {#amber}
+1 location
+>**Amber** - Amberfell  
+
+![Amber Map](<images/amber.png>)
+
 
 ## **ANA** - [Anachronia](<https://runescape.wiki/w/Anachronia>) {#ana}
 3 locations
@@ -75,7 +81,7 @@
 
 
 ## **FELD** - [Feldip Hills](<https://runescape.wiki/w/Feldip_Hills>) {#feld}
-1 locations
+1 location
 > **FELD** - Jungle strykewyrm  
 
 ![FELD Map](<images/feld.png>)
@@ -95,7 +101,7 @@
 > **CATH** - Catherby bank  
  **CT** - Coal trucks, west of Seers' Village  
  **LEG** - Legends' guild  
- **MON** - Kandarin Monastary, south of Ardougne zoo  
+ **MON** - Kandarin Monastery, south of Ardougne zoo  
  **SWK** - Southwest Khazard, north of Yanille bank  
  **YAN** - Yanille bank  
 
@@ -133,7 +139,7 @@
 5 locations
 > **AIRUT** - Piscatoris, near Airuts  
  **ELF** - Lletya, near archery shop  
- **GS** - gnome stronghold bank  
+ **GS** - Gnome Stronghold bank  
  **PISC** - Piscatoris  
  **POIS** - Poison Waste  
 
