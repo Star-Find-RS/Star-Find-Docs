@@ -3,7 +3,7 @@
 ## **Landing Regions**
 _Each region has several landing locations._
 
-**Amber** = Amberfell
+**Amber** = Amberfell  
 **Ana** = Anachronia  
 **Asg** = Asgarnia  
 **Ash** = Ashdale  
@@ -27,7 +27,7 @@ _Alphabetical list of All Locations_
 
 **AIRUT** - Piscatoris, near Airuts  
 **AKB** - Al Kharid bank, by the lodestone  
-**Amber** - Amberfell
+**Amber** - Amberfell  
 **ART** - Artisan's Workshop  
 **ASH-N** - Ashdale North  
 **ASH-S** - Ashdale South  
